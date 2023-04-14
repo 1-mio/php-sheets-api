@@ -1,0 +1,4 @@
+/vendor
+credentials.json
+cacert.pem
+composer.lock

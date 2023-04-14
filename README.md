@@ -23,7 +23,7 @@ Siga os passos abaixo para clonar o repositório e configurar o projeto em sua m
 Abra um terminal e execute o seguinte comando para clonar o repositório:
 
 ```sh
-git clone https://github.com/your-username/php-sheets-api.git
+git clone https://github.com/1-mio/php-sheets-api.git
 ```
 
 ### 2. Instale as dependências

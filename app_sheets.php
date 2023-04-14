@@ -14,7 +14,7 @@ $service = new Google_Service_Sheets($client);
 $spreadsheetId = '1ILIEUg4sRzJMz9pHealgKM_5Pzt5gOFt2j9Uwytre_Y';
 $sheetName = 'db_sheets_onemillionop';
 
-// Insert values
+// Insert values ​​into sheet db_sheets_onemillionop
 $values = [
     ["Nome", "Idade", "Cidade"],
     ["Igor", "200", "Brasília"],

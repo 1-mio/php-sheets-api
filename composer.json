@@ -1,4 +1,14 @@
 {
+    "name": "thiagopoltronieri/php-sheets-api",
+    "description": "App PHP to Google Sheets API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thiagopoltronieri",
+            "email": "thiago@poltronieri.dev"
+        }
+    ],
     "config": {
         "process-timeout": 600
     },
